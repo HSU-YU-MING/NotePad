@@ -14,8 +14,8 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
-        <Button x:Name="btnOpen" Content="開啟檔案按鍵" HorizontalAlignment="Left" Margin="23,19,0,0" VerticalAlignment="Top" Click="btnOpen_Click"/>
-        <Button x:Name="btnSave" Content="存檔按鍵" HorizontalAlignment="Left" Margin="114,19,0,0" VerticalAlignment="Top" Click="btnSave_Click"/>
+        <Button x:Name="btnOpen" Content="開啟檔案按鍵" HorizontalAlignment="Left" Margin="23,19,0,0" VerticalAlignment="Top" Click="btnOpen_Click" Height="25" Width="80"/>
+        <Button x:Name="btnSave" Content="存檔按鍵" HorizontalAlignment="Left" Margin="114,19,0,0" VerticalAlignment="Top" Click="btnSave_Click" Height="25" Width="80"/>
 
     </Grid>
 </Window>
